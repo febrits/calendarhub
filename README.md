@@ -1,4 +1,8 @@
 # CalendarHub 🦉
+## 🌐 Live Demo
+
+https://calendarhub-indol.vercel.app
+
 
 A modern, dark-themed event scheduler and calendar app built with React 19, TypeScript, Vite, and Tailwind CSS v4.
 
